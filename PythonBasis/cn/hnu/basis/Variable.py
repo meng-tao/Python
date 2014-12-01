@@ -5,6 +5,7 @@ Created on 2014年12月1日
 '''
 
 # 变量
+
 i = 5;
 print(i);
 i = i + 1;
