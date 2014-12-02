@@ -4,7 +4,7 @@ Created on 2014年12月2日
 @author: mengtao
 '''
 
-# 控制结构 if
+# 控制结构 if语句
 
 number = 23;
 guess = int(input('please enter an number!'));
