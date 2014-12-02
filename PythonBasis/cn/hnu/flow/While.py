@@ -10,7 +10,7 @@ number = 23;
 running = True;
 
 while running:
-    guess = int(input('pleases enter an number!'));
+    guess = int(input('pleases enter an number!\n'));
     
     if guess == number:
         print('恭喜你，猜对了');

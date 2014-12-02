@@ -7,7 +7,7 @@ Created on 2014年12月2日
 # 控制结构 if语句
 
 number = 23;
-guess = int(input('please enter an number!'));
+guess = int(input('please enter an number!\n'));
 
 if guess == number:
     print('恭喜你答对了');
