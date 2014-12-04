@@ -3,7 +3,7 @@ Created on 2014年12月2日
 
 @author: mengtao
 '''
-# 控制结构，break语句
+# break语句
 
 while True :
     s = input('pleases enter an string!\n');

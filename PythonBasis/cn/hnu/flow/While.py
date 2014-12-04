@@ -4,7 +4,7 @@ Created on 2014年12月2日
 @author: mengtao
 '''
 
-# 控制结构，while语句
+# while语句
 
 number = 23;
 running = True;
